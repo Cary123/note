@@ -1,39 +1,45 @@
-# Note
+# <center>学习笔记<center>
+## Table of Contents
+- [简介](#简介)
+- [Frontend](#Frontend)
+    * [React](#React)
+- [Java](#Java)
+- [Git](#Git)
+- [Linux](#Linux)
+- [Pyhton](#Pyhton)
 
-#### 计算机基础知识
-1. [计算机基础常识](基础/计算机基本常识.md)
+## 简介
+* 记录编程语言, 数据库， 各种框架， 中间件， 前后端技术知识点等等
+* 活到老学到了！
+* 快乐学习！
 
-#### Git
-1. [学习Git基本知识](Git/学习Git基本知识.md)
+## Frontend
 
-#### Markdown
-1. [基础知识](MarkDown/基础知识.md)
+### React
+* [Jest test](/FrontEnd/ReactJS/Jest/jest.md)
 
+## Java
 
-#### Html
-1. [Html基础](Html/Html基础.md)
-2. [html高级用法](Html/Html高级用法.md)
-3. xxxx
+### Basic Domain Note
+* [Annotation](/java/basic/annotation/readme.md)
+* [Thread](/java/basic/thread/readme.md)
 
-#### Js
+### Eclipse
+* [Eclipse 项目文件简介](/java/eclipse/project.md)
 
-1. xxxx
-2. xxxx
-3. xxxx
+### Spring 学习笔记
+* [Spring-context](/java/spring/spring-context.md)
 
-#### 参与贡献
+## Git
+* [Git 基本命令](/Git/ReadMe.md)
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+## Linux
 
+### Centos
 
-#### 码云特技
+### Ubuntu
+* [Ubuntu 基本命令](/Linux/Ubuntu/ReadMe.md)
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Pyhton
+* [Python 爬虫](/Python/Spider/transfer.py)
+
